@@ -174,3 +174,4 @@ Aplikasi yang digunakan untuk menganalisis profil karyawan.
 * `tidyverse`
 * `tidymodels`
 * `DT`
+* `plotly`
